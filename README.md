@@ -16,8 +16,11 @@ https://blog.csdn.net/VLOKL/article/details/133978470?ops_request_misc=%257B%252
 #
 使用OpenCV库调用摄像头拍照保存视频帧：
 #
-opencv库的安装：
+opencv库的安装（注意opencv_world的版本号）：
 https://blog.csdn.net/weixin_50918736/article/details/130176469?ops_request_misc=&request_id=&biz_id=102&utm_term=C++%20%E5%AE%89%E8%A3%85opencv%E5%BA%93&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-2-130176469.142^v99^pc_search_result_base2&spm=1018.2226.3001.4187
+#
+未找到依赖dll
+https://blog.csdn.net/luzaijiaoxia0618/article/details/108241147?ops_request_misc=&request_id=&biz_id=102&utm_term=%E6%9C%AA%E6%89%BE%E5%88%B0%E4%BE%9D%E8%B5%96%20dll&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-1-108241147.nonecase&spm=1018.2226.3001.4187
 #
 GitHub
 #
