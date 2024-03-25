@@ -27,6 +27,9 @@ https://blog.csdn.net/luzaijiaoxia0618/article/details/108241147?ops_request_mis
 opencv调用外部摄像头、录像、拍照功能用法：
 https://blog.csdn.net/xiaomai1996/article/details/109579789?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_utm_term~default-5-109579789-blog-54173104.235^v43^pc_blog_bottom_relevance_base5&spm=1001.2101.3001.4242.4&utm_relevant_index=8
 #
+CSV写入操作：
+https://blog.csdn.net/weixin_43531632/article/details/122281033?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522171138352816800184148232%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=171138352816800184148232&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-4-122281033-null-null.142^v99^pc_search_result_base2&utm_term=C%2B%2B%20%E5%AD%98%E5%82%A8csv%E6%96%87%E4%BB%B6&spm=1018.2226.3001.4187
+#
 GitHub
 #
 Github上传方法：
