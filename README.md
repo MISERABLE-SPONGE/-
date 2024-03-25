@@ -24,6 +24,9 @@ https://blog.csdn.net/weixin_50918736/article/details/130176469?ops_request_misc
 未找到依赖dll（也可以参考sfml）
 https://blog.csdn.net/luzaijiaoxia0618/article/details/108241147?ops_request_misc=&request_id=&biz_id=102&utm_term=%E6%9C%AA%E6%89%BE%E5%88%B0%E4%BE%9D%E8%B5%96%20dll&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-1-108241147.nonecase&spm=1018.2226.3001.4187
 #
+opencv调用外部摄像头、录像、拍照功能用法：
+https://blog.csdn.net/xiaomai1996/article/details/109579789?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_utm_term~default-5-109579789-blog-54173104.235^v43^pc_blog_bottom_relevance_base5&spm=1001.2101.3001.4242.4&utm_relevant_index=8
+#
 GitHub
 #
 Github上传方法：
