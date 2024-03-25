@@ -6,6 +6,8 @@ C++的数据采集程序：使用摄像头采集使用者面部图像，并记�
 将外部库放入项目文件夹中（与Debug同级）
 使用相对路径$(SolutionDir)+路径
 #
+找不到依赖dll，将dll文件放入C/windows/System32和C/windows/SysWow64中
+#
 使用SFML图形库创建全屏窗口、绘制内容以及调用键盘、鼠标事件：
 #
 SFML安装步骤参考CSDN：
