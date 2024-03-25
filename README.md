@@ -11,6 +11,9 @@ https://blog.csdn.net/VLOKL/article/details/132344964?ops_request_misc=%257B%252
 找不到.git文件夹解决方法：
 https://blog.csdn.net/men_ma/article/details/109396784?ops_request_misc=&request_id=&biz_id=102&utm_term=github%20%E6%B2%A1%E6%9C%89.git&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-1-109396784.142^v99^pc_search_result_base2&spm=1018.2226.3001.4187
 #
+上传错误解决方法：
+https://blog.csdn.net/qq_41590178/article/details/125213086?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522171137071516800226587595%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=171137071516800226587595&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-2-125213086-null-null.142^v99^pc_search_result_base2&utm_term=github%E4%B8%8A%E4%BC%A0%E4%BB%A3%E7%A0%81&spm=1018.2226.3001.4187
+#
 使用SFML图形库创建全屏窗口：
 #
 SFML安装步骤参考CSDN：
