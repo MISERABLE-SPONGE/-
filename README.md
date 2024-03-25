@@ -43,3 +43,6 @@ https://blog.csdn.net/qq_41590178/article/details/125213086?ops_request_misc=%25
 #
 GitHub项目改名：
 https://blog.csdn.net/Tisfy/article/details/124348891?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522171137240916800226550371%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=171137240916800226550371&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-2-124348891-null-null.142^v99^pc_search_result_base2&utm_term=github%E9%A1%B9%E7%9B%AE%E6%96%87%E4%BB%B6%E6%80%8E%E4%B9%88%E6%94%B9%E5%90%8D&spm=1018.2226.3001.4187
+#
+Github更新问题：
+https://blog.csdn.net/weixin_45811256/article/details/125989719?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522171138610516800182755544%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=171138610516800182755544&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-125989719-null-null.142^v99^pc_search_result_base2&utm_term=failed%20to%20push%20some%20refs%20to%20&spm=1018.2226.3001.4187
